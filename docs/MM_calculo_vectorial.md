@@ -112,20 +112,24 @@ Material bibliográfico de consulta
 
 <details>
 <summary> Tarea </summary>
-La tarea consiste en un conjunto de ejercicios, mismo que puede encontrar en la siguiente sección. Deberán resolverse los ejercicios marcados en rojo y anexarse a un archivo en PDF para entregarse en la plataforma de Microsoft Teams en tiempo y forma.
+La tarea consiste en un conjunto de ejercicios, mismo que puede encontrar en esta misma página. Deberán resolverse los ejercicios marcados en rojo pero se recomienda resolver la mayor cantidad de ejercicios posible. No se entregan, pero las actividades se basan en estos ejercicios.
 </details>
-    
-- Actividades
-    
-    El curso está diseñado para ser impartir por unidades, mismas que están divididas en secciones. Al término de cada sección se les presenta un solo ejercicio que deberán resolver usando sus apuntes (más no dispositivos electrónicos) en un tiempo límite. Cada actividad se califica con 0 ó 1 dependiendo del resultado del ejercicio. Dado que la actividad depende del avance del grupo, no se puede programar, por lo que las actividades se dan en fechas aleatorias. La mejor manera de prepararse, es haciendo la tarea conforme se avanza en las clases. 
-    
-- Examen parcial
-    
-    El examen parcial cubrirá todo el material dado durante la unidad correspondiente y consiste en un conjunto de ejercicios que deberán resolverse escribiendo de manera clara y precisa el procedimiento matemático así como acompañar sus cálculos con una explicación breve de la lógica física/matemática con la que estructura la solución. La forma ideal para prepararse es estudiar tanto los apuntes de las clases como las actividades y tarea. Durante el examen, no se autoriza abandonar el aula ni el uso de dispositivos inteligentes. Cualquier intento ó sospecha de deshonestidad es causal de una penalización sobre el examen ó incluso su anulación. 
-    
-- Participación
-    
-    Las calificaciones de participación se basan en los aportes durante el curso. Esto incluye la interacción en el foro de discusión, la asistencia a tutoriales y la participación en las discusiones en clase. Cuándo un estudiante obtenga una participación, el profesor lo anunciará en voz alta, la participación debe ser cobrada por el estudiante al final de esa clase, de lo contrario, la participación se pierde. 
+
+<details>
+<summary> Actividades </summary>
+El curso está diseñado para ser impartir por unidades, mismas que están divididas en secciones. Al término de cada sección se les presenta un solo ejercicio que deberán resolver usando sus apuntes (más no dispositivos electrónicos) en un tiempo límite. Cada actividad se califica con 0 ó 1 dependiendo del resultado del ejercicio. Dado que la actividad depende del avance del grupo, no se puede programar, por lo que las actividades se dan en fechas aleatorias. La mejor manera de prepararse, es haciendo la tarea conforme se avanza en las clases. 
+</details>
+
+<details>
+<summary> Examen de unidad </summary>
+El examen parcial (de unidad) cubrirá todo el material dado durante la unidad correspondiente y consiste en un conjunto de ejercicios que deberán resolverse escribiendo de manera clara y precisa el procedimiento matemático así como acompañar sus cálculos con una explicación breve de la lógica física/matemática con la que estructura la solución. La forma ideal para prepararse es estudiar tanto los apuntes de las clases como las actividades y tarea. Durante el examen, no se autoriza abandonar el aula ni el uso de dispositivos inteligentes. Cualquier intento ó sospecha de deshonestidad es causal de una penalización sobre el examen ó incluso su anulación. 
+</details>
+
+<details>
+<summary> Participación </summary>
+Las calificaciones de participación se basan en los aportes durante el curso. Esto incluye la interacción en el foro de discusión, la asistencia a tutoriales y la participación en las discusiones en clase. Cuándo un estudiante obtenga una participación, el profesor lo anunciará en voz alta, la participación debe ser cobrada por el estudiante al final de esa clase, de lo contrario, la participación se pierde.
+</details>
+
     
 
 ## Material de las actividades
@@ -137,7 +141,7 @@ La tarea consiste en un conjunto de ejercicios, mismo que puede encontrar en la 
 | [Unidad 1](https://correoipn-my.sharepoint.com/:b:/g/personal/vcarrerae_ipn_mx/IQBkMH_pZTTLS7_Et8c06PDlAYCvntVkB8iR9JFtdIbwwKw?e=LrwP7U) | [https://correoipn-my.sharepoint.com/:b:/g/personal/vcarrerae_ipn_mx/IQBkMH_pZTTLS7_Et8c06PDlAYCvntVkB8iR9JFtdIbwwKw?e=LrwP7U](https://correoipn-my.sharepoint.com/:b:/g/personal/vcarrerae_ipn_mx/IQBkMH_pZTTLS7_Et8c06PDlAYCvntVkB8iR9JFtdIbwwKw?e=LrwP7U) |  |
 | [Unidad 2](https://correoipn-my.sharepoint.com/:b:/g/personal/vcarrerae_ipn_mx/IQAWehHd_voGQrANCSvF0L3yAfw26RFYwvvYcAGEs60WdPw?e=QL3BKn) | https://correoipn-my.sharepoint.com/:b:/g/personal/vcarrerae_ipn_mx/IQAWehHd_voGQrANCSvF0L3yAfw26RFYwvvYcAGEs60WdPw?e=QL3BKn |  |
 | [Unidad 3](https://correoipn-my.sharepoint.com/:b:/r/personal/vcarrerae_ipn_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas%2FCVU3%2Epdf&parent=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas&share=cQoko9PJ83CsQLyFObt%2DKujFEgUCdypdpD96%5FOFYsnI0rTh9bg) | [CVU3.pdf](https://correoipn-my.sharepoint.com/:b:/r/personal/vcarrerae_ipn_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas%2FCVU3%2Epdf&parent=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas&share=cQoko9PJ83CsQLyFObt%2DKujFEgUCdypdpD96%5FOFYsnI0rTh9bg) |  |
-| Unidad 4 |  |  |
+| [Unidad 4](https://correoipn-my.sharepoint.com/:b:/r/personal/vcarrerae_ipn_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas%2FCVU4%2Epdf&parent=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas&share=cQp2bD%2Dz0zm%5FQIdK3yB%5FcYGQEgUDyDWEhtkbTnYmyRjyrw9hAg) | [CVU4.pdf](https://correoipn-my.sharepoint.com/:b:/r/personal/vcarrerae_ipn_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas%2FCVU4%2Epdf&parent=%2Fpersonal%2Fvcarrerae%5Fipn%5Fmx%2FDocuments%2FCursos%2FIng%5FMecatronica%2FCalculo%5FVectorial%2FTareas&share=cQp2bD%2Dz0zm%5FQIdK3yB%5FcYGQEgUDyDWEhtkbTnYmyRjyrw9hAg) |  |
 | Unidad 5 |  |  |
 
 ## Penalización por tardanzas
