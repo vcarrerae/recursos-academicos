@@ -42,17 +42,6 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
     - 2.7 Multiplicadores de Lagrange
 
 </details>
-
-    
-- Unidad 2: Cálculo diferencial de varias variables.
-    
-    2.1 Derivada: concepto y definición de derivada parcial; reglas de derivación
-    2.2 Regla de cadena, derivada implícita
-    2.3 Derivada direccional y gradiente
-    2.4 Plano tangente y recta normal
-    2.5 Diferenciales
-    2.6 Extremos relativos y absolutos; Hessiano
-    2.7 Multiplicadores de Lagrange
     
 - Unidad 3: Cálculo integral de funciones reales de varias variables
     
