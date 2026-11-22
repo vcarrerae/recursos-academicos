@@ -42,35 +42,44 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 - 2.7 Multiplicadores de Lagrange
 
 </details>
+
+<details>
+<summary> Unidad 3: Cálculo integral de funciones reales de varias variables </summary>
+
+- 3.1 Definición de la integral de Riemann múltiple
+- 3.2 El teorema de Fubini
+- 3.3 Integral doble y aplicaciones: Volumen, momentos, masa, centro de masa.
+- 3.4 Integral triple y aplicaciones: volumen, momentos, masa, centro de masa. 
+- 3.5 Teorema de cambio de variable
+
+</details>
     
-- Unidad 3: Cálculo integral de funciones reales de varias variables
-    
-    3.1 Definición de la integral de Riemann múltiple
-    3.2 El teorema de Fubini
-    3.3 Integral doble y aplicaciones: Volumen, momentos, masa, centro de masa.
-    3.4 Integral triple y aplicaciones: volumen, momentos, masa, centro de masa. 
-    3.5 Teorema de cambio de variable
-    
-- Unidad 4: Funciones vectoriales
-    
-    4.1 Introducción a las funciones con valores vectoriales
-    4.2 Límites y continuidad
-    4.3 Derivadas y movimiento
-    4.4 Vector tangente y recta tangente
-    4.5 Parametrización de curvas
-    4.6 Integral de un campo escalar sobre una curva 
-    
-- Unidad 5: Cálculo vectorial
-    
-    5.1 Campos vectoriales
-    5.2 Integral de línea
-    5.3 Campos conservativos e independencia de la trayectoria
-    5.4 Operador diferencial vectorial nabla
-    5.5 Identidades diferenciales vectoriales
-    5.6 Teorema de Green en el plano
-    5.7 Parametrización de superficies
-    5.8 Teorema de Stokes
-    5.9 Teorema de Gauss
+<details>
+<summary> ~~Unidad 4: Funciones vectoriales~ </summary>
+
+- 4.1 Introducción a las funciones con valores vectoriales
+- 4.2 Límites y continuidad
+- 4.3 Derivadas y movimiento
+- 4.4 Vector tangente y recta tangente
+- 4.5 Parametrización de curvas
+- 4.6 Integral de un campo escalar sobre una curva 
+
+</details>
+
+<details>
+<summary> Unidad 5: Cálculo vectorial </summary>
+
+- 5.1 Campos vectoriales
+- 5.2 Integral de línea
+- 5.3 Campos conservativos e independencia de la trayectoria
+- 5.4 Operador diferencial vectorial nabla
+- 5.5 Identidades diferenciales vectoriales
+- 5.6 Teorema de Green en el plano
+- 5.7 Parametrización de superficies
+- 5.8 Teorema de Stokes
+- 5.9 Teorema de Gauss
+
+</details>
     
 
 ## Bibliografía
