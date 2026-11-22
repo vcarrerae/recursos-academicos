@@ -22,17 +22,14 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details> 
 <summary> Unidad 1: Funciones reales de varias variables  </summary>
-
 - 1.1 Introducción a las funciones con valores reales de varias variables
 - 1.2 Dominio y rango
 - 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
 - 1.4 Límites y continuidad
-
 </details>
 
 <details>
 <summary> Unidad 2: Cálculo diferencial de varias variables </summary>
-
 - 2.1 Derivada: concepto y definición de derivada parcial; reglas de derivación
 - 2.2 Regla de cadena, derivada implícita
 - 2.3 Derivada direccional y gradiente
@@ -40,35 +37,29 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 - 2.5 Diferenciales
 - 2.6 Extremos relativos y absolutos; Hessiano
 - 2.7 Multiplicadores de Lagrange
-
 </details>
 
 <details>
 <summary> Unidad 3: Cálculo integral de funciones reales de varias variables </summary>
-
 - 3.1 Definición de la integral de Riemann múltiple
 - 3.2 El teorema de Fubini
 - 3.3 Integral doble y aplicaciones: Volumen, momentos, masa, centro de masa.
 - 3.4 Integral triple y aplicaciones: volumen, momentos, masa, centro de masa. 
 - 3.5 Teorema de cambio de variable
-
 </details>
     
 <details>
-<summary> ~~Unidad 4: Funciones vectoriales~ </summary>
-
+<summary> ~~Unidad 4: Funciones vectoriales~~ </summary>
 - 4.1 Introducción a las funciones con valores vectoriales
 - 4.2 Límites y continuidad
 - 4.3 Derivadas y movimiento
 - 4.4 Vector tangente y recta tangente
 - 4.5 Parametrización de curvas
 - 4.6 Integral de un campo escalar sobre una curva 
-
 </details>
 
 <details>
 <summary> Unidad 5: Cálculo vectorial </summary>
-
 - 5.1 Campos vectoriales
 - 5.2 Integral de línea
 - 5.3 Campos conservativos e independencia de la trayectoria
@@ -78,7 +69,6 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 - 5.7 Parametrización de superficies
 - 5.8 Teorema de Stokes
 - 5.9 Teorema de Gauss
-
 </details>
     
 
@@ -107,9 +97,11 @@ Material bibliográfico de consulta
 | Participación | Correcciones a los apuntes durante la clase |  | 10% |
 | Examen barrera  | Necesario para validar U1 y U2 |  |  |
 |  |  |  |  |
-- Tarea
-    
-    La tarea consiste en un conjunto de ejercicios, mismo que puede encontrar en la siguiente sección. Deberán resolverse los ejercicios marcados en rojo y anexarse a un archivo en PDF para entregarse en la plataforma de Microsoft Teams en tiempo y forma.
+
+<details>
+<summary> Tarea </summary>
+La tarea consiste en un conjunto de ejercicios, mismo que puede encontrar en la siguiente sección. Deberán resolverse los ejercicios marcados en rojo y anexarse a un archivo en PDF para entregarse en la plataforma de Microsoft Teams en tiempo y forma.
+</details>
     
 - Actividades
     
