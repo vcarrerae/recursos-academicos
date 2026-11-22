@@ -98,6 +98,8 @@ Material bibliográfico de consulta
 | Examen barrera  | Necesario para validar U1 y U2 |  |  |
 |  |  |  |  |
 
+
+
 <details>
 <summary> Tarea </summary>
 La tarea consiste en un conjunto de ejercicios, mismo que puede encontrar en la siguiente sección. Deberán resolverse los ejercicios marcados en rojo y anexarse a un archivo en PDF para entregarse en la plataforma de Microsoft Teams en tiempo y forma.
