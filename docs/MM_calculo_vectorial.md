@@ -22,6 +22,7 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details> 
 <summary> Unidad 1: Funciones reales de varias variables  </summary>
+
 - 1.1 Introducción a las funciones con valores reales de varias variables
 - 1.2 Dominio y rango
 - 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
@@ -30,6 +31,7 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details>
 <summary> Unidad 2: Cálculo diferencial de varias variables </summary>
+
 - 2.1 Derivada: concepto y definición de derivada parcial; reglas de derivación
 - 2.2 Regla de cadena, derivada implícita
 - 2.3 Derivada direccional y gradiente
@@ -41,6 +43,7 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details>
 <summary> Unidad 3: Cálculo integral de funciones reales de varias variables </summary>
+
 - 3.1 Definición de la integral de Riemann múltiple
 - 3.2 El teorema de Fubini
 - 3.3 Integral doble y aplicaciones: Volumen, momentos, masa, centro de masa.
@@ -49,7 +52,8 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 </details>
     
 <details>
-<summary> ~~Unidad 4: Funciones vectoriales~~ </summary>
+<summary> ~~ Unidad 4: Funciones vectoriales ~~ </summary>
+
 - 4.1 Introducción a las funciones con valores vectoriales
 - 4.2 Límites y continuidad
 - 4.3 Derivadas y movimiento
@@ -60,6 +64,7 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details>
 <summary> Unidad 5: Cálculo vectorial </summary>
+
 - 5.1 Campos vectoriales
 - 5.2 Integral de línea
 - 5.3 Campos conservativos e independencia de la trayectoria
