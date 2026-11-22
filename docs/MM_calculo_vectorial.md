@@ -22,23 +22,25 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details> 
 <summary> Unidad 1: Funciones reales de varias variables  </summary>
-
-- 1.1 Introducción a las funciones con valores reales de varias variables
-- 1.2 Dominio y rango
-- 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
-- 1.4 Límites y continuidad
+<ul>
+<li> 1.1 Introducción a las funciones con valores reales de varias variables </li>
+<li> 1.2 Dominio y rango </li>
+<li> 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas </li>
+<li> 1.4 Límites y continuidad </li>
+</ul>
 </details>
 
 <details>
 <summary> Unidad 2: Cálculo diferencial de varias variables </summary>
-
-- 2.1 Derivada: concepto y definición de derivada parcial; reglas de derivación
-- 2.2 Regla de cadena, derivada implícita
-- 2.3 Derivada direccional y gradiente
-- 2.4 Plano tangente y recta normal
-- 2.5 Diferenciales
-- 2.6 Extremos relativos y absolutos; Hessiano
-- 2.7 Multiplicadores de Lagrange
+<ul>
+<li> 2.1 Derivada: concepto y definición de derivada parcial; reglas de derivación </li>
+<li> 2.2 Regla de cadena, derivada implícita </li>
+<li> 2.3 Derivada direccional y gradiente </li>
+<li> 2.4 Plano tangente y recta normal </li>
+<li> 2.5 Diferenciales </li>
+<li> 2.6 Extremos relativos y absolutos; Hessiano </li>
+<li> 2.7 Multiplicadores de Lagrange </li>
+</ul>
 </details>
 
 <details>
