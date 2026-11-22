@@ -22,20 +22,17 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details> 
     <summary> Unidad 1: Funciones reales de varias variables  </summary>
-
-- 1.1 Introducción a las funciones con valores reales de varias variables
-- 1.2 Dominio y rango
-- 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
-- 1.4 Límites y continuidad
+    - 1.1 Introducción a las funciones con valores reales de varias variables
+    - 1.2 Dominio y rango
+    - 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
+    - 1.4 Límites y continuidad
 
 </details>
 
-- Unidad 1: Funciones reales de varias variables
-    
-    1.1 Introducción a las funciones con valores reales de varias variables
-    1.2 Dominio y rango
-    1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
-    1.4 Límites y continuidad
+<details> 
+
+</details>
+
     
 - Unidad 2: Cálculo diferencial de varias variables.
     
