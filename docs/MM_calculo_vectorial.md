@@ -5,7 +5,6 @@
 | Curso en vídeo | Enlace al curso en vídeo en YouTube |
 | Aula virtual |  |
 | Foro discusión | [https://discord.gg/YktxYTjwxR](https://discord.gg/YktxYTjwxR) |
-| Calificaciones | [Enlace al portal de calificaciones](https://calificaciones-profe-carrera.streamlit.app) |
 
 ## Descripción del curso
 
@@ -20,6 +19,16 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 ## Temario
 
 ---
+
+<details> 
+    <summary> Unidad 1: Funciones reales de varias variables  </summary>
+
+- 1.1 Introducción a las funciones con valores reales de varias variables
+- 1.2 Dominio y rango
+- 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
+- 1.4 Límites y continuidad
+
+</details>
 
 - Unidad 1: Funciones reales de varias variables
     
