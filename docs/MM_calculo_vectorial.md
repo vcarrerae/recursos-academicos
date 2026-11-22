@@ -22,7 +22,7 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details> 
 <summary> Unidad 1: Funciones reales de varias variables  </summary>
-    
+
 - 1.1 Introducción a las funciones con valores reales de varias variables
 - 1.2 Dominio y rango
 - 1.3 Conjuntos de nivel y gráfica, planos, cilindros, y superficies cuadráticas.
@@ -32,7 +32,7 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 <details>
 <summary> Unidad 2: Cálculo diferencial de varias variables </summary>
-    
+
 - 2.1 Derivada: concepto y definición de derivada parcial; reglas de derivación
 - 2.2 Regla de cadena, derivada implícita
 - 2.3 Derivada direccional y gradiente
