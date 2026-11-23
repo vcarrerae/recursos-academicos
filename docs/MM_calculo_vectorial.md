@@ -121,6 +121,11 @@ El curso está diseñado para ser impartir por unidades, mismas que están divid
 </details>
 
 <details>
+<summary> Examen de barrera </summary>
+Estos exámenes garantizan que se tenga el conocimiento mínimo requerido para llevar el curso. Es necesario aprobarlos con al menos el 80% para validar la calificación de ls primeras dos unidades del curso. 
+</details>
+
+<details>
 <summary> Examen de unidad </summary>
 El examen parcial (de unidad) cubrirá todo el material dado durante la unidad correspondiente y consiste en un conjunto de ejercicios que deberán resolverse escribiendo de manera clara y precisa el procedimiento matemático así como acompañar sus cálculos con una explicación breve de la lógica física/matemática con la que estructura la solución. La forma ideal para prepararse es estudiar tanto los apuntes de las clases como las actividades y tarea. Durante el examen, no se autoriza abandonar el aula ni el uso de dispositivos inteligentes. Cualquier intento ó sospecha de deshonestidad es causal de una penalización sobre el examen ó incluso su anulación. 
 </details>
@@ -152,17 +157,18 @@ Las calificaciones de participación se basan en los aportes durante el curso. E
 
 ---
 
-- **Integridad académica**
-
+<details>
+    <summary> Integridad académica </summary>
 Se espera que todos los estudiantes mantengan los más altos estándares de integridad académica. Esto incluye, pero no se limita, a evitar acciones como hacer trampa, plagiar y proporcionar información falsa. Cualquier estudiante que sea encontrado en violación de la política de integridad académica enfrentará acciones disciplinarias, que podrían incluir una calificación reprobatoria del curso y sanciones adicionales por parte de la comisión de honor.
-    
-- **Asistencia y participación**
-    
+</details>
+
+<details> 
+<summary> Asistencia y participación </summary>
 La asistencia regular y la participación activa en clase son fundamentales para comprender el material del curso y obtener buenos resultados. En caso de no poder asistir a una clase, se ruega enviar un correo electrónico al docente a cargo con anticipación. La asistencia a las evaluaciones es obligatoria y no se podrá repetir la evaluación salvo que se cuente con un justificante válido emitido por parte de alguna institución federal (IMSS, ISSSTE).
-    
-- **Política de uso de dispositivos electrónicos**
+</details>
 
 <details>
+<summary> Política de uso de dispositivos electrónicos </summary>
 <ul>
     <li> - No se autoriza el uso de dispositivos inteligentes durante las evaluaciones (ni cortas ni largas). </li>
     <li> - Se autoriza el uso de tabletas para tomar notas de manera escrita pero no para tomar fotos del pizarrón. </li>
@@ -172,7 +178,9 @@ La asistencia regular y la participación activa en clase son fundamentales para
     <li> - Las tabletas de escritura deberán estar contra la mesa. No sobre un soporte ni obstruyendo la visión de ninguna manera. </li>
 </ul>
 </details>
-    
+
+
+
 - **Horarios de consulta**
     
 El horario de consulta es un momento para que hagas preguntas, discutas el material del curso o pidas ayuda con las evaluaciones. En la página está publicado el horario del docente, lo puedes buscar en cualquiera de los bloques libres en su espacio de trabajo (cubículos de Aulas 2, piso intermedio). Si desea agendar una cita, puede enviarle un correo electrónico al docente. 
