@@ -181,18 +181,24 @@ La asistencia regular y la participación activa en clase son fundamentales para
 
 
 
-- **Horarios de consulta**
-    
+<details>
+<summary> Horarios de consulta </summary>
 El horario de consulta es un momento para que hagas preguntas, discutas el material del curso o pidas ayuda con las evaluaciones. En la página está publicado el horario del docente, lo puedes buscar en cualquiera de los bloques libres en su espacio de trabajo (cubículos de Aulas 2, piso intermedio). Si desea agendar una cita, puede enviarle un correo electrónico al docente. 
-    
-- **Comunicaciones**
-    
-    Toda comunicación relacionada con el curso se llevará a cabo a través de correo electrónico o el foro de discusión en el sitio web del curso. Por favor, revisa tu correo electrónico y el sitio web del curso regularmente para estar al tanto de las actualizaciones.
-    
-- **Adaptación**
+</details>
 
+<details>
+<summary> Comunicaciones </summary>
+Toda comunicación relacionada con el curso se llevará a cabo a través de correo electrónico o el foro de discusión en el sitio web del curso. Por favor, revisa tu correo electrónico y el sitio web del curso regularmente para estar al tanto de las actualizaciones.
+</details>
+
+<details>
+<summary> Adaptación </summary>
 Si necesitas alguna adaptación debido a una discapacidad u otras razones, por favor contacta al docente a cargo lo antes posible para hacer los arreglos necesarios.
+</details>
 
-- **Penalización por tardanza**
-
+<details>
+<summary> Penalización por tardanza </summary>
 Los trabajos entregados con posterioridad a la fecha de entrega pautada serán penalizados con una tasa del 5% diario sobre la calificación, incluyendo los fines de semana. 
+</details>
+
+
