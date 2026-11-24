@@ -149,7 +149,6 @@ Las calificaciones de participación se basan en los aportes durante el curso. E
 ### Curso en vídeo
 [Lista de reproducción](https://www.youtube.com/watch?v=M7axNCiyMmA&list=PLm3Y7aI9Qy2b4GsCFffHQhnoTdhrxbt4m)
 
-
 ## Políticas del curso
 
 <details>
@@ -173,8 +172,6 @@ La asistencia regular y la participación activa en clase son fundamentales para
     <li> - Las tabletas de escritura deberán estar contra la mesa. No sobre un soporte ni obstruyendo la visión de ninguna manera. </li>
 </ul>
 </details>
-
-
 
 <details>
 <summary> Horarios de consulta </summary>

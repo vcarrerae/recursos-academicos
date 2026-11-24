@@ -1,14 +1,6 @@
 # [MM] Cálculo vectorial
 
-| Horarios de consulta | Lunes y Miércoles de 13:00 a 15:00 |
-| --- | --- |
-| Curso en vídeo | Enlace al curso en vídeo en YouTube |
-| Aula virtual |  |
-| Foro discusión | [https://discord.gg/YktxYTjwxR](https://discord.gg/YktxYTjwxR) |
-
 ## Descripción del curso
-
----
 
 La presente unidad de aprendizaje está diseñada para dotar al alumno con los conocimientos y habilidades del cálculo de varias variables y el cálculo vectorial para resolver problemas matemáticos y físicos relativos al campo de la Ingeniería Mecatrónica, empleando el análisis, la síntesis, el pensamiento abstracto y cuantitativo, y la construcción de analogías y de conjeturas.
 
@@ -17,8 +9,6 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 *Posteriores: Electricidad y magnetismo, Teoría electromagnética, Termodinámica, Mecánica de fluidos, Mecánica e hidrúlica, Oscilaciones y óptica, Análisis de señales y sistemas, Síntesis de mecanismos.*
 
 ## Temario
-
----
 
 <details> 
 <summary> Unidad 1: Funciones reales de varias variables  </summary>
@@ -84,10 +74,6 @@ La presente unidad de aprendizaje está diseñada para dotar al alumno con los c
 
 ## Bibliografía
 
----
-
-Material bibliográfico de consulta
-
 | Título | Autor | Editorial | Año |
 | --- | --- | --- | --- |
 | Cálculo de varias variables | G. Thomas | Pearson | 2009 |
@@ -98,7 +84,7 @@ Material bibliográfico de consulta
 
 ## Evaluación
 
----
+### Rúbrica de evaluación
 
 | Evaluación | Descripción | Fecha límite | Porcentaje |
 | --- | --- | --- | --- |
@@ -106,9 +92,9 @@ Material bibliográfico de consulta
 | Examen parcial | Examen tradicional en papel y lápiz al término de cada unidad. |  | 75% |
 | Participación | Correcciones a los apuntes durante la clase |  | 10% |
 | Examen barrera  | Necesario para validar U1 y U2 |  |  |
-|  |  |  |  |
+| **TOTAL** |  |  | **110%** |
 
-
+### Descripción de las evidencias de evaluación
 
 <details>
 <summary> Tarea </summary>
@@ -135,8 +121,6 @@ El examen parcial (de unidad) cubrirá todo el material dado durante la unidad c
 Las calificaciones de participación se basan en los aportes durante el curso. Esto incluye la interacción en el foro de discusión, la asistencia a tutoriales y la participación en las discusiones en clase. Cuándo un estudiante obtenga una participación, el profesor lo anunciará en voz alta, la participación debe ser cobrada por el estudiante al final de esa clase, de lo contrario, la participación se pierde.
 </details>
 
-    
-
 ## Material de las actividades
 
 ---
@@ -150,12 +134,7 @@ Las calificaciones de participación se basan en los aportes durante el curso. E
 | Unidad 5 |  |  |
 
 
-
----
-
 ## Políticas del curso
-
----
 
 <details>
     <summary> Integridad académica </summary>
